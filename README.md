@@ -1,5 +1,7 @@
-### Hi there 👋
-
+## This is </mark>Seulbi Lee</mark> 👋
+   
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSeulbi71&show_icons=true&theme=ocean_dark)
+   
 <!--
 **LeeSeulbi71/LeeSeulbi71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Languages
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-1B4F72?style=flat-square&logo=python&logoColor=White"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/language C-311B92?style=flat-square&logo=c&logoColor=White"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Tableau-1A237E?style=flat-square&logo=Tableau&logoColor=White"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/R-7986CB?style=flat-square&logo=R&logoColor=White"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spotfire-90CAF9?style=flat-square&logo=https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F143%2F377%2Fpng-transparent-tibco-software-spotfire-computer-software-business-intelligence-amg-logo-blue-text-trademark.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fko%2Fsearch%3Fq%3Dspotfire&tbnid=25SnJ7H-2AoURM&vet=12ahUKEwi3zo3L-ojzAhUWDZQKHYPxCyEQMygAegUIARCJAQ..i&docid=p8a1OGypQNQ_gM&w=920&h=242&q=spotfire%20%EB%A1%9C%EA%B3%A0&ved=2ahUKEwi3zo3L-ojzAhUWDZQKHYPxCyEQMygAegUIARCJAQ&logoColor=White"/></a>
+
+
+
+
