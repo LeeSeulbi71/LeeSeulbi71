@@ -1,8 +1,11 @@
 
+## About Me 💜
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=header&text=Lee%20Seulbi&fontSize=80&animation=twinkling)   
 
-# My Stats 🌱
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drizzle0171&show_icons=true&theme=onedark)
+## My Stats 🌱
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drizzle0171&show_icons=true&theme=shades-of-purple)
    
 <!--
 **LeeSeulbi71/LeeSeulbi71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +22,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Languages 💬
+<br>
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-1B4F72?style=flat-square&logo=python&logoColor=White"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/language C-311B92?style=flat-square&logo=c&logoColor=White"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Tableau-1A237E?style=flat-square&logo=Tableau&logoColor=White"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/R-7986CB?style=flat-square&logo=R&logoColor=White"/></a>
+## Languages 💬
+<br>
 
+- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  </a> <img src="https://img.shields.io/badge/C-8041D9?style=flat-square&logo=C&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Tableau-008299?style=flat-square&logo=Tableau&logoColor=white"/></a>  <img src="https://img.shields.io/badge/R-B2CCFF?style=flat-square&logo=R&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Numpy-E5D85C?style=flat-square&logo=Numpy&logoColor=white"/>   <img src="https://img.shields.io/badge/Pandas-ED9595?style=flat-square&logo=Pandas&logoColor=white"/></a>
 
+<br>
+
+## More ✏
+- <img src="https://img.shields.io/badge/Velog-33CC99?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@drizzle0171"/>
+- <img src="https://img.shields.io/badge/Gmail-990000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yongsandew@gmail.com"/>
 
 
