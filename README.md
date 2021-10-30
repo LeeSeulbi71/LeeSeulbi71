@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 <br>
 
 ## More ✏
-- <img src="https://img.shields.io/badge/Velog-33CC99?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@drizzle0171"/>
-- <img src="https://img.shields.io/badge/Gmail-990000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yongsandew@gmail.com"/>
-- <img src="https://img.shields.io/badge/Portfolio-353535?style=flat-square&logo=Notion&logoColor=white&link=https://puffy-dumpling-10f.notion.site/Portfolio-d7b2997bcb054c9f88d38d681743a6ca"/>
+- <a href="https://velog.io/@drizzle0171"><img src="https://img.shields.io/badge/Velog-33CC99?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@drizzle0171"/>
+- <a href="mailto:yongsandew@gmail.com"><img src="https://img.shields.io/badge/Gmail-990000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yongsandew@gmail.com"/>
+- <a href="https://puffy-dumpling-10f.notion.site/Portfolio-d7b2997bcb054c9f88d38d681743a6ca"><img src="https://img.shields.io/badge/Portfolio-353535?style=flat-square&logo=Notion&logoColor=white&link=https://puffy-dumpling-10f.notion.site/Portfolio-d7b2997bcb054c9f88d38d681743a6ca"/>
 
 
