@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br>
 
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  </a> <img src="https://img.shields.io/badge/C-8041D9?style=flat-square&logo=C&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Tableau-008299?style=flat-square&logo=Tableau&logoColor=white"/></a>  <img src="https://img.shields.io/badge/R-B2CCFF?style=flat-square&logo=R&logoColor=white"/></a>
-- <img src="https://img.shields.io/badge/Numpy-665C00?style=flat-square&logo=Numpy&logoColor=white"/>   <img src="https://img.shields.io/badge/Pandas-ED9595?style=flat-square&logo=Pandas&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pytorch-ED9595?style=flat-square&logo=Pytorch&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Numpy-665C00?style=flat-square&logo=Numpy&logoColor=white"/>   <img src="https://img.shields.io/badge/Pandas-ED9595?style=flat-square&logo=Pandas&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pytorch-4374D9?style=flat-square&logo=Pytorch&logoColor=white"/></a>
 
 <br>
 
