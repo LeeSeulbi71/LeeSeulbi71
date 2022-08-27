@@ -11,6 +11,8 @@
 #### ✔️ Enactus Seoltech 20th Member (2020.09 ~ 2021.08)
 #### ✔️ GDSC Seoultech 1st Member (2021.09 ~ 2022.05)
 #### ✔️ [Data Intelligence Lab](https://github.com/daintlab) (2021.11 ~ )
+#### ✔️ GDSC Seoultech 2nd Lead (2022.08 ~)
+
 <br>
    
 ## My Stats 🌱
