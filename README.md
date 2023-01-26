@@ -1,25 +1,15 @@
-## Hey, This is drizzle 🙋‍♀️
-#### 🎓 Seoul National University of Science & Technology (Seoultech)
-#### 🎓 [Major] Department of Industrial and Information Systems Engineering (IISE)
+## SEULBI
 - <a href="https://velog.io/@drizzle0171"><img src="https://img.shields.io/badge/Velog-33CC99?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@drizzle0171"/>
 - <a href="mailto:yongsandew@gmail.com"><img src="https://img.shields.io/badge/Gmail-e7b3a7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yongsandew@gmail.com"/>
-- <a href="https://puffy-dumpling-10f.notion.site/Portfolio-d7b2997bcb054c9f88d38d681743a6ca"><img src="https://img.shields.io/badge/Portfolio-353535?style=flat-square&logo=Notion&logoColor=white&link=https://puffy-dumpling-10f.notion.site/Portfolio-d7b2997bcb054c9f88d38d681743a6ca"/>
+- <a href="https://puffy-dumpling-10f.notion.site/Portfolio-d7b2997bcb054c9f88d38d681743a6ca"><img src="https://img.shields.io/badge/Portfolio-353535?style=flat-square&logo=Notion&logoColor=white&link=https://puffy-dumpling-10f.notion.site/CV-a4af04dcea794d96862e3685026abe43"/>
 <br>
 
-## have 🔥
-#### ✔️ OVAL (Korea, China, Japan, United Nations club) 31st Member & 30th Lead (2020.03 ~ 2021.08)
-#### ✔️ Enactus Seoltech 20th Member (2020.09 ~ 2021.08)
-#### ✔️ GDSC Seoultech 1st Member (2021.09 ~ 2022.05)
-#### ✔️ [Data Intelligence Lab](https://github.com/daintlab) (2021.11 ~ )
-#### ✔️ GDSC Seoultech 2nd Lead (2022.08 ~)
 
+## Can use ☑️
 <br>
 
-## Can use 🤯
-<br>
-
-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  </a> <img src="https://img.shields.io/badge/C-8041D9?style=flat-square&logo=C&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Tableau-008299?style=flat-square&logo=Tableau&logoColor=white"/></a>  <img src="https://img.shields.io/badge/R-B2CCFF?style=flat-square&logo=R&logoColor=white"/></a>
-- <img src="https://img.shields.io/badge/Numpy-665C00?style=flat-square&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-86E57F?style=flat-square&logo=Matplotlib&logoColor=white"/>  <img src="https://img.shields.io/badge/Pandas-ED9595?style=flat-square&logo=Pandas&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pytorch-4374D9?style=flat-square&logo=Pytorch&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  </a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Java-E60012?style=flat-square&logo=OpenJDK&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> 
 
 <br>
 
