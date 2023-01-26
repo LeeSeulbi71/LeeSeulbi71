@@ -18,6 +18,6 @@
 <br>
 
 [![Solved.ac
-dltmfql01](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmfql01)](https://solved.ac/dltmfql01/)
+dltmfql01](http://mazassumnida.wtf/api/pastel/generate_badge?boj=dltmfql01)](https://solved.ac/dltmfql01/)
 
 <br>
